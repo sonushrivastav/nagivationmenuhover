@@ -34,7 +34,7 @@ body{
 .navigation ul li{
     position: relative;
     list-style: none;
-    width: 70px;
+    width: 71px;
     height: 70px;
     z-index: 1;
 }
