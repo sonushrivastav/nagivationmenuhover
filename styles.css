@@ -68,7 +68,7 @@ body{
 .navigation ul li a .title{
    position: absolute;
    top: 50%;
-   left: 110px;
+   left: 111px;
    background-color: #fff;
    transform: translateY(-50%);
    padding: 5px 10px;
