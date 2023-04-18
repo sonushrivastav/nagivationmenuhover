@@ -94,7 +94,7 @@ body{
     left: -8px;
     top: 46%;
     transform: rotate(45deg) translateY(-50%);
-    border-radius: 2px;
+    border-radius: 5px;
 }
 .navigation ul .indicator{
     position: absolute;
