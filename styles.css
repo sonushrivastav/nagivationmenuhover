@@ -36,7 +36,7 @@ body{
     list-style: none;
     width: 70px;
     height: 70px;
-    z-index: 11;
+    z-index: 10;
 }
 .navigation ul li a{
     text-decoration: none;
