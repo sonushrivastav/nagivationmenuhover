@@ -18,7 +18,7 @@ body{
     position: relative;
     width: 70px;
     height: 350px;
-    border-radius: 35px;
+    border-radius: 30px;
     box-shadow: 0 15px 25px rgba(0,0,0,.1) ;
     background-color: #fff;
 }
