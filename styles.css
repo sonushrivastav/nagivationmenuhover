@@ -72,7 +72,7 @@ body{
    background-color: #fff;
    transform: translateY(-50%);
    padding: 5px 10px;
-   border-radius: 5px;
+   border-radius: 15px;
    transition: .5s;
    box-shadow: 0 5px 15px rgba(0,0,0,.1);
    opacity: 0;
