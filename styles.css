@@ -16,7 +16,7 @@ body{
 }
 .navigation{
     position: relative;
-    width: 80px;
+    width: 90px;
     height: 350px;
     border-radius: 30px;
     box-shadow: 0 35px 25px rgba(0,0,0,.1) ;
