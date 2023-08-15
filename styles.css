@@ -86,7 +86,7 @@ body{
 
 }
 .navigation ul li a .title::before{
-    content: "";
+    content:"";
     position: absolute;
     width: 10px;
     height: 10px;
