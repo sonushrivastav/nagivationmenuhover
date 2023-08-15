@@ -58,7 +58,7 @@ body{
     transition: .5s;
 }
 .navigation ul li.active a .icon{
-    color: #ffffff;
+    color: #fff;
 }
 
 .navigation ul li a .icon i{
