@@ -12,7 +12,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: #333333;
+    background-color: #333;
 }
 .navigation{
     position: relative;
@@ -20,7 +20,7 @@ body{
     height: 350px;
     border-radius: 30px;
     box-shadow: 0 35px 25px rgba(0,0,0,.1) ;
-    background-color: #ffffff;
+    background-color: #fff;
 }
 .navigation ul{
     position: absolute;
