@@ -80,7 +80,7 @@ body{
 }
 
 .navigation ul li:hover a .title{
-   opacity: 1;
+   opacity:1;
    visibility: visible;
    transform: translateX(-25px) translateY(-50%);
 
