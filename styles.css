@@ -101,7 +101,7 @@ body{
     left: 0;
     width: 70px;
     height: 70px;
-    transition: .4s;
+    transition: .5s;
 }
 
 .navigation ul .indicator::before{
